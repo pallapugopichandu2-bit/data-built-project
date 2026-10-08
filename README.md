@@ -463,8 +463,8 @@ identifier, then Refresh.
 
 ## Author
 
-**Venkatesh Lankalapalli**
-[LinkedIn](https://www.linkedin.com/in/venkateshlankalapalli) | [GitHub](https://github.com/venkateshlankalapalli45)
+**Gopi Chandu**
+[GitHub](https://github.com/pallapugopichandu2-bit)
 
 ---
 
